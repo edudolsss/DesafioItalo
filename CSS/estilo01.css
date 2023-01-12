@@ -1,0 +1,16 @@
+p{
+    width: 20%;
+    background-color: brown;
+    border-radius:10px;
+    border-style: solid;
+    border-color:gray;
+
+    text-align: center;
+    margin: 0.2%;
+
+}
+
+#content3{
+    display: flex;
+    flex: auto;
+}
